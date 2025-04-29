@@ -4,3 +4,5 @@
 #### Getting Specific, but with Style
 ##### Small but Snarky
 ###### If You Can Read This, You’re Too Close
+
+![Image of Mona the Rivetertocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
