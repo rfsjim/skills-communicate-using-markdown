@@ -1,5 +1,14 @@
 # The Big Heading Who Lived
+
 ## Still Important, Just Less Yelly
+``` c
+void main(void)
+{
+  int i = 0;
+  char *string;
+}
+```
+
 ### Middle Child Syndrome Activated
 #### Getting Specific, but with Style
 ##### Small but Snarky
